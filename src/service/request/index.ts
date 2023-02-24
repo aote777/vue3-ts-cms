@@ -6,3 +6,5 @@ class Request {
     this.instance = axios.create(config)
   }
 }
+
+export default Request
